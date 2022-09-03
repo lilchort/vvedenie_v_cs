@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\bin\Debug\net6.0\072А.exe
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\bin\Debug\net6.0\072А.deps.json
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\bin\Debug\net6.0\072А.runtimeconfig.json
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\bin\Debug\net6.0\072А.dll
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\bin\Debug\net6.0\072А.pdb
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\072А.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\072А.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\072А.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\072А.AssemblyInfo.cs
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\072А.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\072А.dll
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\refint\072А.dll
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\072А.pdb
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\072А.genruntimeconfig.cache
+C:\Users\PC\Desktop\c#vvedenievprogrammirovanie\072А\obj\Debug\net6.0\ref\072А.dll
